@@ -7,7 +7,7 @@
 ![](/img/hvst.jpg)
 ![](/img/nvst.jpg)
 
-*Simple visual cortex neuron's response (having gabor function receptive field) to moving grating stimulus*
+*Simple visual cortex neuron's response (having gabor function receptive field) to sinusoidal grating stimulus*
 
 ![](/img/a3.jpg)
 
