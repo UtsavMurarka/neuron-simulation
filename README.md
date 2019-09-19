@@ -1,3 +1,3 @@
 # neuron-simulation
 
-![]("/Hodgkin Huxley Model/v vs t.jpg")
+![](/img/vvst.jpg)
